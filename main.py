@@ -1,3 +1,4 @@
 print("Mani sauc Viktorija")
 
-#izvadi savu vārdu
+
+print('Mai neim iz Aleksis')
